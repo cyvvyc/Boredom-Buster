@@ -1,0 +1,21 @@
+body{
+	background-color:#a0a0a0;
+}
+div{
+	text-align:center;
+	font-size:50px;
+	background-color:#a9a9a9;
+	padding:50px;
+}
+h1{
+	font-family:tahoma;
+	font-size:75px;
+	color:#FFFDD0;
+	font-style:italic;
+}
+p{
+	font-family:tahoma;
+	font-style:normal;
+	font-weight:light;
+	font-size:15px;
+}
